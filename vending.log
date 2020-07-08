@@ -1,0 +1,3 @@
+Пользователь внёс недостаточно денег
+Exception in thread "main" java.lang.Exception: Пользователь внёс недостаточно денег
+	at ru.timokhina.lesson14.Task01.main(Task01.java:45)
